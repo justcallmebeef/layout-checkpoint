@@ -1,0 +1,23 @@
+.main2 {
+    border: 1px solid; 
+    padding: 30px; 
+    max-width: 1000px;
+    margin: 20px;
+}
+
+h1, p {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.image1 {
+    height: 200px; 
+    width: 200px; 
+    background-color: blue; 
+}
+
+.col-centered {
+    float: none; 
+    margin: 0 auto;
+    border: 1px solid; 
+}

@@ -1,0 +1,28 @@
+.main { 
+    border: 1px solid; 
+    padding: 30px; 
+    max-width: 1000px;
+    margin: 20px;
+}
+
+.col-md-9 {
+    padding: 20px;
+    border: 1px solid; 
+    margin: 20px;
+    border: 1px solid;
+
+}
+
+img {
+    width: 100px; 
+    height: 100px; 
+    background: url(http://goo.gl/vyAs27) no-repeat scroll 0 0;
+}
+
+#box1, #box3 {
+    float: left;
+}
+
+#box2 {
+    float: right;
+}
